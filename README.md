@@ -9,7 +9,13 @@ PostLux is a web-based blogging forum that uses React and Django to provide an e
 
    ```bash
    git clone https://github.com/upretybnd/PostLux.git
-2. Run the app using npm (Only Frontend of this project has been completed)
+2. Navigate to PostLux directory
+   ```bash
+   cd PostLux
+3. Install the required dependencies
+   ```bash 
+   npm i
+4. Run the app using npm (Only Frontend of this project has been completed)
 
    ```bash
    npm start

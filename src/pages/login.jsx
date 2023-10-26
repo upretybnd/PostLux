@@ -1,10 +1,9 @@
 import React from 'react';
+import Nav from '../components/navbar';
 
 const Login = () => {
     return(
-        <div>
-            <h1>Login Page</h1>
-        </div>
+       <Nav page="login" /> 
     );
 }
 
