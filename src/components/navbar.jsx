@@ -22,7 +22,7 @@ const Nav = (props) => {
                 <div className="mr-10 float-right flex gap-5">
                     <a href="/contact" className="text-xl text-[#000]">Contact</a>
                     <a href="/login" className="text-xl text-[#000]">Login</a>
-                    <Btn bg='[#000]' color='[#fff]' name='Get Started'/>
+                    <Btn bg='[#000]' color='[#fff]' name='Get Started' />
                 </div>
                 ) :
                 <div></div>}
