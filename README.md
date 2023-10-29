@@ -15,7 +15,11 @@ PostLux is a web-based blogging forum that uses React and Django to provide an e
 3. Install the required dependencies
    ```bash 
    npm i
-4. Run the app using npm (Only Frontend of this project has been completed)
+4. Run the app using npm
 
    ```bash
    npm start
+##  How to Contribute ?
+
+If you would like to contribute to PostLux, please see the [contribution guidelines](CONTRIBUTING.md) for more information.
+### The README file of this repository will undergo continuous updates to reflect the ongoing development progress of the project.

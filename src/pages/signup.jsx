@@ -3,7 +3,9 @@ import Nav from '../components/navbar';
 
 const Signup = () => {
     return (
-        <Nav page="signup"/>
+        <>
+            <Nav page="signup" />
+        </>
     );
 }
 
